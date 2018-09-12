@@ -1,1 +1,3 @@
 # words
+
+BOOTSTRAP+AJAX+PDO
